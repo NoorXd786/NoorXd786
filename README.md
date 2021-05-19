@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 
 
+[![telegram badge](https://img.shields.io/badge/MdNoor-30302f?style=for-the-badge&logo=telegram)](https://t.me/SimpleBoy786)
+
+
+
+
+
 **Stats:**  
 
 
