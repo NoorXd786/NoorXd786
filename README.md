@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**MdNoor786/MdNoor786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Info:
+- 🎀 Myself - Mohammad Noor
+- ♥️ Age - 16 
+- 🌠 current study in 11th
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Shasa_Robot
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on PikaX Userbot
+- 👯 I’m looking to collaborate on Lion-X and Meow Userbot
 - 🤔 I’m looking for help with Python pyrogram and Telethon
-
-
 
 - ⚡ Fun fact: I am Noob
 -->
