@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-Info:
-- 🎀 Myself - Mohammad Noor
+### Info
+```python
+- 🎀 Myself - Mohammad Noor🇮🇳
 - ♥️ Age - 16 
 - 🌠 current study in 11th
+- 😛 From - India
+```
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Shasa_Robot
