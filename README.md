@@ -1,61 +1,46 @@
-### Hi there 👋
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Md Noor](https://t.me/Simpleboy786) | [![Profile views](https://komarev.com/ghpvc/?username=MdNoor786&label=Profile%20views)](https://github.com/MdNoor786)
 
-### Info
+
+- **💫 I’m currently working on [LionZ](https://github.com/TeamLionX/LionZ)**
+
+- **🌱 Currently Learning Python**
+
+- **⚡ Fun Fact I'm Noob...**
+
+
 ```python
-- 🎀 Myself - Mohammad Noor🇮🇳
-- ♥️ Age - 16 
-- 🌠 current study in 11th
-- 😛 From - India
+Name = "Md Noor"
+Who I Am = ['Coding = ❣️']
+Age = "17"
+Country = "🇮🇳"
 ```
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on Shasa_Robot
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Lion-X and Meow Userbot
-- 🤔 I’m looking for help with Python pyrogram and Telethon
+## 📊 Stats
 
-- ⚡ Fun fact: I am Noob
--->
+[![Metrics](https://metrics.lecoq.io/MdNoor786?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/SimpleBoy786)
 
+<h3 align="left"><b>My GitHub Stats💛</b></h4>
+
+![MdNoor Git Stats](https://github-readme-stats.vercel.app/api?username=MdNoor786&include_all_commits=true&count_private=true&theme=highcontrast)
 
 
-[![telegram badge](https://img.shields.io/badge/MdNoor-30302f?style=for-the-badge&logo=telegram)](https://t.me/SimpleBoy786)
+### 💻 Latest Activities:
+<!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/TeamLionX/LionZ/issues/1) in [TeamLionX/LionZ](https://github.com/TeamLionX/LionZ)
+2. ❌ Closed PR [#1](https://github.com/MdNoor786/ShasaMusic-/pull/1) in [MdNoor786/ShasaMusic-](https://github.com/MdNoor786/ShasaMusic-)
+<!--END_SECTION:activity-->
 
+</br>
 
+### Languages and Tools I Love❤️
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
+[<img align="left" alt="Heroku" width="26px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
 
+<br />
+<br />
 
+<h3 align="left"><b> Top Used Languages </b></h3>
 
-**Stats:**  
-
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=MdNoor786&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=MdNoor786&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdNoor786&theme=tokyonight&hide=batchfile">
-
-# GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/MdNoor786)
-- [![GitHub followers](https://img.shields.io/github/followers/MdNoor786.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/MdNoor786?tab=followers)
-
-<p>
-  <a href="https://github.com/MdNoor786/handle-path-oz">
-    <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=MdNoor786&show_icons=true&hide_border=true" />
-  </a>
-</p>
-<p align ="right">
-  <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
-  <br>
-</p>  
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MdNoor786&" alt="MdNoor786" /></p>
-# 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infotechbro&layout=compact&theme=radical)
