@@ -26,8 +26,8 @@ Country = "🇮🇳"
 
 ### 💻 Latest Activities:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/TeamLionX/LionX/issues/3) in [TeamLionX/LionX](https://github.com/TeamLionX/LionX)
-2. 🎉 Merged PR [#1](https://github.com/TeamLionX/LionX/pull/1) in [TeamLionX/LionX](https://github.com/TeamLionX/LionX)
+1. ❗️ Reopened issue [#4](https://github.com/TeamLionX/LionX/issues/4) in [TeamLionX/LionX](https://github.com/TeamLionX/LionX)
+2. ❗️ Closed issue [#4](https://github.com/TeamLionX/LionX/issues/4) in [TeamLionX/LionX](https://github.com/TeamLionX/LionX)
 <!--END_SECTION:activity-->
 
 </br>
