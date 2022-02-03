@@ -26,8 +26,8 @@ Country = "🇮🇳"
 
 ### 💻 Latest Activities:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Mdnoor786/LionZ-1/pull/1) in [Mdnoor786/LionZ-1](https://github.com/Mdnoor786/LionZ-1)
-2. 🎉 Merged PR [#2](https://github.com/Mdnoor786/ShasaBot/pull/2) in [Mdnoor786/ShasaBot](https://github.com/Mdnoor786/ShasaBot)
+1. ❗️ Closed issue [#3](https://github.com/TeamLionX/LionX/issues/3) in [TeamLionX/LionX](https://github.com/TeamLionX/LionX)
+2. ❗️ Closed issue [#9](https://github.com/TeamLionX/LionX/issues/9) in [TeamLionX/LionX](https://github.com/TeamLionX/LionX)
 <!--END_SECTION:activity-->
 
 </br>
