@@ -26,8 +26,8 @@ Country = "🇮🇳"
 
 ### 💻 Latest Activities:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/DipeshxD/MissKristina11/pull/1) in [DipeshxD/MissKristina11](https://github.com/DipeshxD/MissKristina11)
-2. ❗️ Closed issue [#3](https://github.com/TeamLionX/LionX/issues/3) in [TeamLionX/LionX](https://github.com/TeamLionX/LionX)
+1. 🎉 Merged PR [#1](https://github.com/TeamLionX/Heroku/pull/1) in [TeamLionX/Heroku](https://github.com/TeamLionX/Heroku)
+2. 💪 Opened PR [#1](https://github.com/TeamLionX/Heroku/pull/1) in [TeamLionX/Heroku](https://github.com/TeamLionX/Heroku)
 <!--END_SECTION:activity-->
 
 </br>
