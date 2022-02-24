@@ -26,8 +26,8 @@ Country = "🇮🇳"
 
 ### 💻 Latest Activities:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/TeamLionX/Heroku/pull/1) in [TeamLionX/Heroku](https://github.com/TeamLionX/Heroku)
-2. 💪 Opened PR [#1](https://github.com/TeamLionX/Heroku/pull/1) in [TeamLionX/Heroku](https://github.com/TeamLionX/Heroku)
+1. 🎉 Merged PR [#1](https://github.com/AmanJhaOp/ShreyAmanXSpam/pull/1) in [AmanJhaOp/ShreyAmanXSpam](https://github.com/AmanJhaOp/ShreyAmanXSpam)
+2. 💪 Opened PR [#1](https://github.com/AmanJhaOp/ShreyAmanXSpam/pull/1) in [AmanJhaOp/ShreyAmanXSpam](https://github.com/AmanJhaOp/ShreyAmanXSpam)
 <!--END_SECTION:activity-->
 
 </br>
