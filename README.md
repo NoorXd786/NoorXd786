@@ -26,8 +26,8 @@ Country = "🇮🇳"
 
 ### 💻 Latest Activities:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AmanJhaOp/ShreyAmanXSpam/pull/1) in [AmanJhaOp/ShreyAmanXSpam](https://github.com/AmanJhaOp/ShreyAmanXSpam)
-2. 💪 Opened PR [#1](https://github.com/AmanJhaOp/ShreyAmanXSpam/pull/1) in [AmanJhaOp/ShreyAmanXSpam](https://github.com/AmanJhaOp/ShreyAmanXSpam)
+1. ❗️ Opened issue [#12](https://github.com/TeamLionX/LionX/issues/12) in [TeamLionX/LionX](https://github.com/TeamLionX/LionX)
+2. 🗣 Commented on [#11](https://github.com/TeamLionX/LionX/issues/11) in [TeamLionX/LionX](https://github.com/TeamLionX/LionX)
 <!--END_SECTION:activity-->
 
 </br>
