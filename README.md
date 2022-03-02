@@ -34,8 +34,8 @@ Country = "🇮🇳"
 
 ### 💻 Latest Activities:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Mdnoor786/LionX-1/pull/1) in [Mdnoor786/LionX-1](https://github.com/Mdnoor786/LionX-1)
-2. ❗️ Opened issue [#12](https://github.com/TeamLionX/LionX/issues/12) in [TeamLionX/LionX](https://github.com/TeamLionX/LionX)
+1. 🎉 Merged PR [#1](https://github.com/Mdnoor786/Destroy-X/pull/1) in [Mdnoor786/Destroy-X](https://github.com/Mdnoor786/Destroy-X)
+2. 💪 Opened PR [#1](https://github.com/Mdnoor786/LionX-1/pull/1) in [Mdnoor786/LionX-1](https://github.com/Mdnoor786/LionX-1)
 <!--END_SECTION:activity-->
 
 </br>
