@@ -34,8 +34,8 @@ Country = "🇮🇳"
 
 ### 💻 Latest Activities:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Mdnoor786/ShasaVcPlayer/pull/1) in [Mdnoor786/ShasaVcPlayer](https://github.com/Mdnoor786/ShasaVcPlayer)
-2. 🎉 Merged PR [#2](https://github.com/Mdnoor786/ShasaVcPlayer/pull/2) in [Mdnoor786/ShasaVcPlayer](https://github.com/Mdnoor786/ShasaVcPlayer)
+1. 💪 Opened PR [#3](https://github.com/Mdnoor786/ShasaVcPlayer/pull/3) in [Mdnoor786/ShasaVcPlayer](https://github.com/Mdnoor786/ShasaVcPlayer)
+2. 🎉 Merged PR [#1](https://github.com/Mdnoor786/ShasaVcPlayer/pull/1) in [Mdnoor786/ShasaVcPlayer](https://github.com/Mdnoor786/ShasaVcPlayer)
 <!--END_SECTION:activity-->
 
 </br>
