@@ -56,4 +56,4 @@ Activity Graph
 
 <h3 align="left"><b> Top Used Languages </b></h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdNoor786&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdNoor786&layout=compact&theme=swift)
