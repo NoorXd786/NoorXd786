@@ -25,7 +25,7 @@ Country = "🇮🇳"
 
 ## 📊 Stats
 
-[![Metrics](https://metrics.lecoq.io/MdNoor786?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/SimpleBoy786)
+![Metrics](https://metrics.lecoq.io/Mdnoor786?template=classic&people=1&languages=1&stars=1&topics=1&habits=1&followup=1&achievements=1&projects=1&introduction=1&starlists=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&topics.mode=starred&topics.sort=stars&topics.limit=15&stars.limit=4&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.size=15&people.types=followers%2C%20following&people.shuffle=false&projects.limit=4&projects.descriptions=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=1000&introduction.title=true&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=false&starlists.limit.languages=8&starlists.shuffle.repositories=true&config.timezone=Asia%2FCalcutta)
 
 <h3 align="left"><b>My GitHub Stats💛</b></h4>
 
