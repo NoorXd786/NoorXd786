@@ -21,6 +21,11 @@ Country = "🇮🇳"
 
 ##
 
+Activity Graph
+
+
+![Mohd Noor's's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=MdNoor786&custom_title=My%20Graph&bg_color=241737&line=f21f89&color=f52f91&point=fdf5ea&hide_border=true&area=true&area_color=fdf5oa)
+
 
 
 ## 📊 Stats
