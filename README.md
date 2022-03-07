@@ -17,7 +17,7 @@ Country = "🇮🇳"
 
 ## Stats 2022
 
-[![Mohd Noor github stats](https://github-readme-stats.vercel.app/api?username=MdnOor786&show_icons=true&theme=purple&count_private=true)](https://github.com/MdNoor786)
+[![Mohd Noor github stats](https://github-readme-stats.vercel.app/api?username=MdnOor786&show_icons=true&theme=flag-india&count_private=true)](https://github.com/MdNoor786)
 
 ##
 
@@ -29,7 +29,7 @@ Country = "🇮🇳"
 
 <h3 align="left"><b>My GitHub Stats💛</b></h4>
 
-![MdNoor Git Stats](https://github-readme-stats.vercel.app/api?username=MdNoor786&include_all_commits=true&count_private=true&theme=highcontrast)
+![MdNoor Git Stats](https://github-readme-stats.vercel.app/api?username=MdNoor786&include_all_commits=true&count_private=true&theme=buefy)
 
 
 ### 💻 Latest Activities:
