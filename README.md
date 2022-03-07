@@ -39,8 +39,8 @@ Activity Graph
 
 ### 💻 Latest Activities:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Mdnoor786/ShasaVcPlayer/pull/4) in [Mdnoor786/ShasaVcPlayer](https://github.com/Mdnoor786/ShasaVcPlayer)
-2. 🎉 Merged PR [#3](https://github.com/Mdnoor786/ShasaVcPlayer/pull/3) in [Mdnoor786/ShasaVcPlayer](https://github.com/Mdnoor786/ShasaVcPlayer)
+1. 🎉 Merged PR [#13](https://github.com/TeamLionX/LionX/pull/13) in [TeamLionX/LionX](https://github.com/TeamLionX/LionX)
+2. 🎉 Merged PR [#4](https://github.com/Mdnoor786/ShasaVcPlayer/pull/4) in [Mdnoor786/ShasaVcPlayer](https://github.com/Mdnoor786/ShasaVcPlayer)
 <!--END_SECTION:activity-->
 
 </br>
