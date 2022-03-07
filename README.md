@@ -56,4 +56,8 @@ Activity Graph
 
 <h3 align="left"><b> Top Used Languages </b></h3>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MdNoor786)](https://github.com/ryo-ma/github-profile-trophy)
+
+.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdNoor786&layout=compact&theme=swift)
