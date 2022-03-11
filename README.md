@@ -39,8 +39,8 @@ Activity Graph
 
 ### 💻 Latest Activities:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/Mdnoor786/ShasaRoBot/pull/34) in [Mdnoor786/ShasaRoBot](https://github.com/Mdnoor786/ShasaRoBot)
-2. 🎉 Merged PR [#15](https://github.com/TeamLionX/LionX/pull/15) in [TeamLionX/LionX](https://github.com/TeamLionX/LionX)
+1. 🎉 Merged PR [#15](https://github.com/TeamLionX/LionX/pull/15) in [TeamLionX/LionX](https://github.com/TeamLionX/LionX)
+2. 🎉 Merged PR [#3](https://github.com/Mdnoor786/docs/pull/3) in [Mdnoor786/docs](https://github.com/Mdnoor786/docs)
 <!--END_SECTION:activity-->
 
 </br>
