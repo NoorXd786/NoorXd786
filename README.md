@@ -39,8 +39,8 @@ Activity Graph
 
 ### 💻 Latest Activities:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](https://github.com/Mdnoor786/ShasaVcPlayer/pull/12) in [Mdnoor786/ShasaVcPlayer](https://github.com/Mdnoor786/ShasaVcPlayer)
-2. 💪 Opened PR [#12](https://github.com/Mdnoor786/ShasaVcPlayer/pull/12) in [Mdnoor786/ShasaVcPlayer](https://github.com/Mdnoor786/ShasaVcPlayer)
+1. ❌ Closed PR [#13](https://github.com/Mdnoor786/ShasaVcPlayer/pull/13) in [Mdnoor786/ShasaVcPlayer](https://github.com/Mdnoor786/ShasaVcPlayer)
+2. 💪 Opened PR [#13](https://github.com/Mdnoor786/ShasaVcPlayer/pull/13) in [Mdnoor786/ShasaVcPlayer](https://github.com/Mdnoor786/ShasaVcPlayer)
 <!--END_SECTION:activity-->
 
 </br>
