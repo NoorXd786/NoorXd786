@@ -39,8 +39,8 @@ Activity Graph
 
 ### 💻 Latest Activities:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#39](https://github.com/TeamLionX/LionX/pull/39) in [TeamLionX/LionX](https://github.com/TeamLionX/LionX)
-2. 💪 Opened PR [#39](https://github.com/TeamLionX/LionX/pull/39) in [TeamLionX/LionX](https://github.com/TeamLionX/LionX)
+1. 🎉 Merged PR [#40](https://github.com/TeamLionX/LionX/pull/40) in [TeamLionX/LionX](https://github.com/TeamLionX/LionX)
+2. 💪 Opened PR [#40](https://github.com/TeamLionX/LionX/pull/40) in [TeamLionX/LionX](https://github.com/TeamLionX/LionX)
 <!--END_SECTION:activity-->
 
 </br>
