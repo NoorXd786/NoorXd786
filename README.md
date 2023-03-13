@@ -16,7 +16,7 @@ Age = "17"
 Country = "🇮🇳"
 ```
 
-## Stats 2022
+## Stats 2023
 
 [![Mohd Noor github stats](https://github-readme-stats.vercel.app/api?username=NoorXd786&show_icons=true&theme=flag-india&count_private=true)](https://github.com/NoorXd786)
 
